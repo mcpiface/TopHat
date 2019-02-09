@@ -1,0 +1,66 @@
+Partlist
+
+Exported from TopHat-V1.brd at 09/02/2019 21:39
+
+EAGLE Version 7.4.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part      Value                               Package                      Library             Position (inch)       Orientation
+
+A                                             1X02                         SparkFun-Connectors (-0.825 1.15)         R180
+B                                             1X02                         SparkFun-Connectors (-0.825 1.05)         R180
+C1        0.1uF                               0805                         SparkFun-Capacitors (-0.66535433 0.84251969) R0
+C2        0.1uF                               0805                         SparkFun-Capacitors (0.02755906 1.72834646) R180
+C3        1.0uF                               0805                         SparkFun-Capacitors (0.13267717 2.20334646) R0
+C4        0.1uF                               0805                         SparkFun-Capacitors (-0.20472441 1.68897638) R270
+C5        0.1uF                               0805                         SparkFun-Capacitors (1.44488189 2.34251969) MR0
+C6        1uF                                 0805                         SparkFun-Capacitors (0.28346457 1.33858268) R0
+CFG       CFG                                 1X02                         SparkFun-Connectors (1.53149606 2.22047244) R180
+D5        BLUE                                LED-1206                     SparkFun-LED        (-1.21259843 2.29527559) R180
+D6        BLUE                                LED-1206                     SparkFun-LED        (2.31889764 0.80708661) R0
+DISPLAY   DISPLAY0.91_INCH_DISPLAY            I2C_DISPLAY_0.91_INCH        ThingySticks        (0.82677165 0.10629921) R0
+GPIO-1                                        JST-4-PH-GROVE               ThingySticks        (1.65354331 1.3011811) R0
+GPIO-2                                        JST-4-PH-GROVE               ThingySticks        (2.16535433 1.30314961) R0
+I2C-1                                         JST-4-PH-GROVE               ThingySticks        (0.62992126 1.65354331) R0
+J1        CONN_20X2NOSILK                     2X20_NOSILK                  SparkFun-Connectors (0.33070866 2.01574803) R0
+J2                                            MOLEX-1X2                    SparkFun-Connectors (-0.81102362 2.2992126) R180
+J3                                            1X14                         SparkFun-Connectors (-1.3 0.725)          R0
+J4        USB_A_SMT_MALE                      USB-A-SMT-MALE               Tinamous            (-1.58661417 1.1023622) R0
+J5                                            MOLEX-1X2                    SparkFun-Connectors (-0.44488189 1.8503937) R180
+J6                                            MOLEX-1X2                    SparkFun-Connectors (-0.44488189 2.10629921) R180
+J7                                            1X02                         SparkFun-Connectors (0.33070866 1.90551181) R270
+J8                                            1X14                         SparkFun-Connectors (-1.3 -0.075)         R0
+J9                                            1X14_NO_SILK                 SparkFun-Connectors (-1.3 0.625)          R0
+J10                                           1X14_NO_SILK                 SparkFun-Connectors (-1.3 0.525)          R0
+J11                                           1X14_NO_SILK                 SparkFun-Connectors (-1.3 0.425)          R0
+J12                                           1X14_NO_SILK                 SparkFun-Connectors (-1.3 0.325)          R0
+J13                                           1X14_NO_SILK                 SparkFun-Connectors (-1.3 0.225)          R0
+J14                                           1X14_NO_SILK                 SparkFun-Connectors (-1.3 0.125)          R0
+J15                                           1X14_NO_SILK                 SparkFun-Connectors (-1.3 0.025)          R0
+JP1       JUMPER-SMT_2_NO_SILK                SMT-JUMPER_2_NO_SILK         SparkFun-Jumpers    (0.37795276 0.49212598) R0
+JP2                                           SCREWTERMINAL-5MM-2@1        SparkFun-Connectors (-1.2015748 1.92007874) MR270
+MC-I2C-1A MC_PI_FACE_CONNECTORS_I2CTOP        JST-6-SH-1.0MM-TOP           McPiFace            (0.65354331 0.8976378) R90
+MC-I2C-1B MC_PI_FACE_CONNECTORS_I2CTOP        JST-6-SH-1.0MM-TOP           McPiFace            (1.08661417 0.8976378) R90
+MC-I2C-2  MC_PI_FACE_CONNECTORS_I2CTOP        JST-6-SH-1.0MM-TOP           McPiFace            (1.51968504 0.8976378) R90
+MC-I2C-3  MC_PI_FACE_CONNECTORS_I2CTOP        JST-6-SH-1.0MM-TOP           McPiFace            (1.95275591 0.8976378) R90
+NEOPIXELS                                     MOLEX-1X3                    SparkFun-Connectors (0.92913386 2.28740157) R180
+PWM                                           JST-4-PH-GROVE               ThingySticks        (1.65354331 1.65354331) R0
+R1        0.1                                 1210                         SparkFun-Resistors  (-0.56299213 1.58661417) R90
+R2        10k                                 0805                         SparkFun-Resistors  (-0.03149606 1.31102362) R0
+R3        120R                                0805                         SparkFun-Resistors  (1.07086614 2.31496063) R0
+R4        1k5                                 0805                         SparkFun-Resistors  (-1.04330709 2.29527559) R180
+R5        1k                                  0805                         SparkFun-Resistors  (2.25984252 0.93307087) R270
+R6        3k9                                 0805                         SparkFun-Resistors  (0.51574803 0.49212598) R0
+R7        3k9                                 0805                         SparkFun-Resistors  (0.51574803 0.38582677) R0
+R8        3k9                                 0805                         SparkFun-Resistors  (1.56299213 1.87795276) MR90
+R9        3k9                                 0805                         SparkFun-Resistors  (1.66535433 1.87795276) MR90
+RTS                                           1X02                         SparkFun-Connectors (-0.27165354 1.13385827) R90
+SERIAL                                        JST-4-PH-GROVE               ThingySticks        (1.14173228 1.65354331) R0
+SHUTDOWN  MOMENTARY-SWITCH-SPST-SMD-6.0X3.5MM TACTILE_SWITCH_SMD_6.0X3.5MM ThingySticks        (1.75590551 2.28346457) R0
+U$5       LEDs                                JST-4-SH-1.0MM-SIDE          McPiFace            (2.11023622 1.90944882) R0
+U1         MAX3485CSA                         SO08                         SparkFun-IC-Comms   (-0.5511811 1.11023622) R90
+U2        INA219AIDCNRSOIC                    SO08                         INA219AIDCNR        (0.16929134 1.53543307) R90
+U3                                            SOT223                       SparkFun-PowerIC    (-0.12598425 1.90944882) R90
+U4        SN74AHC1G125                        SOT23-5                      SparkFun-IC-Logic   (1.24015748 2.27559055) R90
+U5        24LC256                             SO08                         SparkFun-IC-Memory  (1.82677165 2.27559055) MR270
